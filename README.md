@@ -4,4 +4,4 @@ Have some digitally controllable lights (for example LEDs) that you want to fade
 
 The Arduino Uno can light from zero to six lights using this program, though in practice it's overkill if you have fewer than two lights.
 
-In general, you should just be able to modify the user settings at the top of lights.c.  I'll leave wiring the lights up to you.
+In general, you should just be able to modify the user settings at the top of lights.ino.  I'll leave wiring the lights up to you.
